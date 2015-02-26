@@ -1,3 +1,7 @@
+* {
+	padding: 5px;
+	}
+
 @font-face {
 	font-family:"Authentic Ratatouille";
 	src:url(../../Desktop/ps_negley_holly/Authentic_Ratatouille.otf)
@@ -8,6 +12,20 @@ body{
 	font-family: "Century Gothic";
 	color: #efe1e1;
 }
+
+header img{
+	width:100%;
+	}
+	
+header{
+	float:left;
+	}
+
+
+main{
+	width: 50%;
+	float:right;
+	}
 
 h1{
 	font-family: "Authentic Ratatouille";
@@ -53,5 +71,9 @@ h2{
 	
 #visited:visited{
 	color:#d696bb;
+	}
+	
+main img {
+	width: 30%;
 	}
 
