@@ -13,6 +13,10 @@ body{
 	color: #efe1e1;
 }
 
+h1 {
+	font-weight: normal;
+	}
+
 header img{
 	width:100%;
 	}
@@ -59,21 +63,30 @@ h2{
 
 #link:hover{
 	color: #d696bb;
+	font-size: 24px;
+	}
+
+#active{
+	font-size: 24px;
 	}
 
 #active:active{
 	color: #c9a305;
+	font-size: 24px;
 	}
 	
 #visited{
 	color:#d696bb;
+	font-size: 24px;
 	}
 	
 #visited:visited{
 	color:#d696bb;
+	font-size: 24px;
 	}
 	
-main img {
-	width: 30%;
+aside img {
+	width: 20%;
 	}
+	
 
