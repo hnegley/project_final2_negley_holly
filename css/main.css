@@ -1,0 +1,57 @@
+@font-face {
+	font-family:"Authentic Ratatouille";
+	src:url(../../Desktop/ps_negley_holly/Authentic_Ratatouille.otf)
+	}
+
+body{
+    background-color: #4f6f84;
+	font-family: "Century Gothic";
+	color: #efe1e1;
+}
+
+h1{
+	font-family: "Authentic Ratatouille";
+	font-size: 65px;
+	color: #c9a305;
+	}
+	
+h2{
+	font-family:"Century Gothic";
+	color: #d696bb;
+	font-size: 30px;
+	}
+	
+#textlink {
+	text-decoration:underline;
+	color: #c9a305;
+	font-size: 24px;
+	}
+	
+#textlink:link {
+	text-decoration:underline;
+	color: #c9a305;
+	font-size: 24px;
+	}
+
+	
+#link{
+	color: #c9a305;
+	font-size: 24px;
+	}
+
+#link:hover{
+	color: #d696bb;
+	}
+
+#active:active{
+	color: #c9a305;
+	}
+	
+#visited{
+	color:#d696bb;
+	}
+	
+#visited:visited{
+	color:#d696bb;
+	}
+
