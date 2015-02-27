@@ -11,6 +11,7 @@ body{
     background-color: #4f6f84;
 	font-family: "Century Gothic";
 	color: #efe1e1;
+	clear:both;
 }
 
 h1 {
@@ -18,7 +19,7 @@ h1 {
 	}
 
 header img{
-	width:100%;
+	width:90%;
 	}
 	
 header{
@@ -28,7 +29,7 @@ header{
 
 main{
 	width: 50%;
-	float:right;
+	float:left;
 	}
 
 h1{
@@ -41,6 +42,10 @@ h2{
 	font-family:"Century Gothic";
 	color: #d696bb;
 	font-size: 30px;
+	}
+	
+#first{
+	
 	}
 	
 #textlink {
@@ -86,7 +91,17 @@ h2{
 	}
 	
 aside img {
-	width: 20%;
+	width: 30%;
+	float: left;
+	padding-left: 7%;
 	}
+	
+#imamgeone{
+	
+	}
+	
+#imagetwo{
+	}
+	
 	
 
